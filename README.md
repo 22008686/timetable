@@ -130,6 +130,6 @@ HTML VALIDATOR
 
 # RESULT
 
-Thus the output has been executed
+Thus the program has been executed
 
 
