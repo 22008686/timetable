@@ -23,7 +23,7 @@ Add your timetable
 Execute the program
 
 # CODE
-
+```
 timetable.html
 
 <!DOCTYPE html>
@@ -119,7 +119,7 @@ timetable.html
 </table>
 </body>
 </html>
-
+```
 # OUPUT
 
 ![slot](https://user-images.githubusercontent.com/118916413/232961029-096d13b1-a124-43e2-8387-6a838e80db8b.png)
