@@ -128,4 +128,8 @@ HTML VALIDATOR
 
 ![slot1](https://user-images.githubusercontent.com/118916413/232961191-1bbab9b1-f396-43e3-8520-9a3eaafd9fc1.png)
 
+# RESULT
+
+Thus the output has been executed
+
 
